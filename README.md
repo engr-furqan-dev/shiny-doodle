@@ -1,3 +1,3 @@
 # shiny-doodle
 Something exciting is coming!
-Just Wait & watch
+Just Wait & watch!
